@@ -1,1 +1,1 @@
-# examplary
+# sample projects
